@@ -4,7 +4,7 @@ namespace
 
 use Illuminate\Foundation\Http\Kernel as HttpKernel;
 
-class Kernel extends HttpKernel
+class Kernel extends HttpKern
 {
     /**
      * The application's global HTTP middleware stack.
