@@ -5,7 +5,7 @@ namespace App\C
 use Illuminate\Console\Scheduling\Schedule;
 use Illuminate\Foundation\Console\Kernel as ConsoleKernel;
 
-class Kernel extends ConsoleKernel
+class Kernel extends ConsoleKer
 {
     /**
      * The Artisan commands provided by your application.
